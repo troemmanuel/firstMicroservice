@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "spring.cloud.routes",
+      "type": "java.lang.String",
+      "description": "Description for spring.cloud.routes."
+    },
+    {
+      "name": "spring.cloud.gateway.routes.uri",
+      "type": "java.lang.String",
+      "description": "Description for spring.cloud.gateway.routes.uri."
+    }
+  ] }
